@@ -1,0 +1,14 @@
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.exe
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.deps.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.runtimeconfig.json
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.AssemblyInfo.cs
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\refint\ConsoleApp7.dll
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.pdb
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ConsoleApp7.genruntimeconfig.cache
+C:\Users\srikanthpa.DATAMARSHALL\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\net8.0\ref\ConsoleApp7.dll
